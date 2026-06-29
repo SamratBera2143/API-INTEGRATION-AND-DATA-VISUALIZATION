@@ -20,3 +20,9 @@ The collected data is then visualized using the Matplotlib library. A dashboard 
 The project demonstrates the practical implementation of REST API integration, JSON data parsing, data manipulation, and scientific visualization using Python. Proper error handling has been implemented to ensure that the program responds appropriately to invalid API keys, network issues, or incorrect city names. This makes the application more reliable and user-friendly. The code is organized, well-commented, and modular, allowing future developers or users to modify it easily by changing the city name or adding additional weather parameters.
 This task helped in understanding the importance of APIs in modern software development and how real-time data can be integrated into applications. It also provided hands-on experience with Python libraries such as Requests and Matplotlib, which are widely used in data analysis and visualization. The project highlights how raw data obtained from an external source can be transformed into meaningful insights through graphical representation, making complex information easier to understand and analyze.
 Overall, this project successfully fulfills the objectives of the CODTECH Internship Task-1 by combining API integration, data extraction, data processing, and visualization into a single Python application. It demonstrates fundamental programming concepts, effective use of third-party libraries, and practical skills in handling real-world data. The completed weather dashboard serves as a useful application for monitoring weather forecasts while showcasing the power of Python in data-driven software development.
+
+*OUTPUT*: 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9d7e1ec0-5d1d-4ea6-9bec-c8452eabd6bc" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48d5d78c-dca4-4ed3-b20c-ef03aa197b5d" />
